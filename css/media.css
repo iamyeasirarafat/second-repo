@@ -1,0 +1,483 @@
+/* CSS Document */
+
+@media(max-width:1199px){
+
+.contact li {
+    font-size: 11px;}
+.nav-link {
+    font-size: 11px !important;}    
+
+.slider-heading {
+    font-size: 70px !important;}
+
+ .carousel-caption p {
+    font-size: 17px;} 
+
+.btn-primary {
+    margin-top: 35px;
+    font-size: 14px !important;
+    padding: 12px 24px !important;
+}
+
+ .who-we-are-section h1 {
+    font-size: 40px;}
+
+.who-we-are-section p {
+    font-size: 19px;}
+
+.who-we-are-section .far {
+    font-size: 55px;}
+.col-10 h3 {
+    font-size: 24px;}
+.col-10 p {
+    font-size: 14px;}
+.latest-works-section h1 {
+    font-size: 37px;}
+.latest-works-section {
+    padding: 60px 0;}
+.latest-works-section p {
+    font-size: 20px;
+    padding-bottom: 30px;}
+.card-title {
+    font-size: 17px;}   
+.card-body p {
+    font-size: 12px !important;
+}
+.get-in-touch-section {
+    padding: 60px 0;}
+
+.get-in-touch-section h2 {
+    font-size: 39px;}
+.get-in-touch-section p {
+    font-size: 19px;
+}
+
+.footer-content h1 {
+    font-size: 13px;
+}
+
+.footer-content p {
+    font-size: 12px;
+    margin-top: 10px;}
+
+.footer-top p {
+    font-size: 12px;}
+.footer-top .nav-link {
+    font-size: 12px !important;}
+
+}
+
+@media(max-width:991px){
+
+.nav-link {
+    font-size: 15px !important;
+    text-align: center;
+}
+
+.search{
+	    left: 95%;
+    bottom: 10px;
+}
+
+.navbar-brand img{
+	    width: 85%;
+}
+
+.slider-heading {
+    font-size: 54px !important;}
+
+.carousel-caption p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.btn-primary {
+    margin-top: 25px;
+    font-size: 12px !important;
+    padding: 9px 20px !important;}
+
+.carousel-control-prev, .carousel-control-next {
+    top: 50px;}
+
+.who-we-are-section h1 {
+    font-size: 35px;} 
+
+.who-we-are-section .col-12 {
+    padding: 25px 0 !important;}
+
+.who-we-are-section p {
+    font-size: 16px;
+    line-height: 25px;}
+
+.who-we-are-section .far {
+    font-size: 45px;}
+
+.col-10 h3 {
+    font-size: 20px;}
+
+.col-10 p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 5px;}
+
+.latest-works-section {
+    padding: 45px 0;
+}
+
+.latest-works-section h1 {
+    font-size: 32px;
+    margin-bottom: 0;}
+
+.latest-works-section p {
+    font-size: 17px;
+    padding-bottom: 20px;}
+
+.card-title {
+    font-size: 16px;
+    margin-bottom: 0px;}    
+
+.card-body p {
+    font-size: 11px !important;
+    padding-bottom: 0;
+}
+
+.get-in-touch-section {
+    padding: 45px 0;
+}
+
+.get-in-touch-section h2 {
+    font-size: 35px;
+}
+
+.get-in-touch-section p {
+    font-size: 16px;
+    line-height: 22px;}
+
+.footer-content h1 {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.footer-content p {
+    font-size: 10px;}
+
+.footer-content h6 {
+    margin-top: 3px !important;
+        font-size: 14px;
+}
+
+.footer-content ul li {
+    font-size: 11px;
+}
+
+.footer-content ul {
+    padding-top: 15px;
+}
+
+.footer-top .nav-link {
+    font-size: 11px !important;
+    padding: 0px;
+}
+
+.form-inline .form-control {
+    font-size: 11px;
+    width: 65%;}
+
+.subcribe .btn {
+    padding: 3px 4px !important;
+    font-size: 11px !important;
+    top: 6px;
+    bottom: -2px;
+    top: 6px;
+bottom: -2px;
+}
+
+.form-inline {
+
+    width: 115%;
+
+}    
+
+    
+}
+@media(max-width:767px){
+
+.navbar-brand img {
+
+    width: 75%;
+
+}
+
+.navbar-toggler {
+    font-size: 14px;}
+
+.quality {
+	display: none;
+}
+
+.footer {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.footer-content h1 {
+    font-size: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.footer-content p {
+    font-size: 13px;
+}
+
+.footer-content ul {
+    text-align: left;
+}
+
+.footer-content ul li {
+    font-size: 13px;
+}
+
+.form-inline .form-control {
+    font-size: 14px;
+    width: 500px;
+}
+
+.subcribe .btn {
+    font-size: 15px !important; 
+}
+
+.footer-top p {
+    font-size: 14px;
+}
+
+.footer-top ul {
+ justify-content: center;
+}
+
+.footer-top .nav-link {
+    font-size: 13px !important;
+    padding: 0px;
+}
+
+
+.slider-heading {
+    font-size: 50px !important;
+    line-height: 50px !important;
+}
+
+
+}
+@media(max-width:575px){
+
+.form-inline .form-control {
+    font-size: 14px;
+    width: 455px;
+}
+
+.subcribe .btn {
+    font-size: 13px !important;
+    right: 5px;
+}
+
+.form-inline {
+    width: 97%;
+}
+
+.slider-heading {
+    font-size: 40px !important;
+    line-height: 45px !important;
+}
+
+.carousel-caption p {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.btn-primary {
+    margin-top: 15px;
+    font-size: 11px !important;
+    padding: 7px 15px !important;
+}
+
+.navbar-brand img {
+    width: 70%;
+    margin-left: 10px;
+}
+
+.nav {
+    justify-content: center;
+    float: none !important;
+}
+
+.who-we-are-section {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.quality{
+	display: block;
+}
+
+}
+@media(max-width:480px){
+
+
+.slider-heading {
+    font-size: 30px !important;
+    line-height: 34px !important;
+}
+
+.carousel-caption {
+    top: 10%;
+}
+
+.who-we-are-section p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.who-we-are-section h1 {
+    font-size: 30px;
+    padding: 0 !important;
+    margin: 0;
+}
+
+.navbar-brand img {
+    width: 65%;
+}
+
+.latest-works-section h1 {
+    font-size: 30px;}
+
+.latest-works-section {
+    padding: 35px 0;
+}
+
+.latest-works-section p {
+    font-size: 13px;
+    padding-bottom: 12px;
+}
+
+.get-in-touch-section {
+    padding: 35px 0;
+}
+
+.form-inline .form-control {
+    font-size: 14px;
+    width: 364px;
+}
+
+
+
+}
+@media(max-width:380px){
+
+
+.form-inline .form-control {
+    font-size: 14px;
+    width: 212px;
+}
+
+.slider-heading {
+    line-height: 34px !important;
+}
+
+.carousel-caption p {
+    display: none;
+}
+
+.who-we-are-section h1 {
+    font-size: 24px;
+}
+
+.latest-works-section h1 {
+    font-size: 24px;
+}
+
+.latest-works-section p {
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.card-title {
+    font-size: 14px;
+}
+
+.get-in-touch-section h2 {
+    font-size: 28px;
+}
+
+.footer-top .nav-link {
+    padding-left: 10px !important;
+}
+
+
+
+}
+@media(min-width:1900px){
+	.carousel-caption {
+    top: 43%;
+}
+.slider-heading {
+    font-size: 130px !important;
+    margin-bottom: 20px !important;
+}
+
+    .carousel-caption p {
+    font-size: 30px;}
+    .btn-primary {
+    font-size: 35px !important;
+    padding: 20px 30px !important;
+}
+.nav-link {
+    font-size: 17px !important;
+}
+.who-we-are-section h1 {
+
+    font-size: 65px !important;
+}
+
+.who-we-are-section p {
+    font-size: 30px;
+    line-height: 38px;}
+.who-we-are-section .far {
+    font-size: 75px;}
+
+.col-10 h3 {
+    font-size: 35px;}
+ .col-10 p {
+   font-size: 25px;}
+
+.latest-works-section h1 {
+    font-size: 60px;
+    line-height: 57px;}
+
+.latest-works-section p {
+    font-size: 28px;
+}   
+
+.card-title {
+    font-size: 24px;} 
+
+.card-body p {
+    font-size: 23px !important;} 
+
+.get-in-touch-section h2 {
+    font-size: 60px;}
+
+.get-in-touch-section p {
+    font-size: 27px;}
+
+.footer-content h1 {
+    font-size: 26px;}  
+
+.footer-content p {
+    font-size: 21px;}                   
+
+.footer-top p{
+    font-size: 18px;}
+
+.footer-top .nav-link {
+    font-size: 18px !important;}    
+}
